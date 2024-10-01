@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fares Arnous</h1>
+<h1 align="center">Hi ✌️, I'm Fares Arnous</h1>
 <h3 align="center">A passionate frontend developer from Syria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faresarnous&label=Profile%20views&color=0e75b6&style=flat" alt="faresarnous" /> </p>
 
-- 🌱 I’m currently learning HTML, CSS, and JS **Node js, experess, socket.io**
+- 🔭 I’m currently working on Branch bots company **WebRTC**
+
+- - 🌱 I’m currently learning full stack development **Node.js, Express, Socket.io, and completing the 100 Days of Web Development course.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FaresArnous](https://github.com/FaresArnous)
 
@@ -11,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/farse arnous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farse arnous" height="30" width="40" /></a>
 <a href="https://instagram.com/f_r.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f_r.54" height="30" width="40" /></a>
 </p>
 

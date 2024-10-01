@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Branch bots company **WebRTC**
 
-- - 🌱 I’m currently learning full stack development **Node.js, Express, Socket.io, and completing the 100 Days of Web Development course.**
+-  🌱 I’m currently learning full stack development **Node.js, Express, Socket.io, and completing the 100 Days of Web Development course.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FaresArnous](https://github.com/FaresArnous)
 

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fares Arnous</h1>
 <h3 align="center">A passionate frontend developer from Syria.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faresarnous" alt="faresarnous" /></a> </p>
-
 - 🔭 I’m currently working on Branch bots company **WebRTC**
 
 - - 🌱 I’m currently learning full stack development **Node.js, Express, Socket.io, and completing the 100 Days of Web Development course.**

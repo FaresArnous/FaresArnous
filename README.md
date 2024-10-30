@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fares Arnous</h1>
-<h3 align="center">A passionate frontend developer from Syria.</h3>
+<h3 align="center">A passionate Software engineer from Syria.</h3>
 
 - 🔭 I’m currently working on Branch bots company **WebRTC**
 
-- - 🌱 I’m currently learning full stack development **Node.js, Express, Socket.io, and completing the 100 Days of Web Development course.**
+- 🌱 I’m currently learning full stack development **Node.js, Express, Socket.io, and completing the 100 Days of Web Development course.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FaresArnous](https://github.com/FaresArnous)
 

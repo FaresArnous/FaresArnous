@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fares Arnous</h1>
-<h3 align="center">A passionate Software engineer from Syria.</h3>
+<h3 align="center">A passionate Software engineer.</h3>
 
 - 🔭 I’m currently working on Al Rajhi Food Company **IT and Technical Support**
 
